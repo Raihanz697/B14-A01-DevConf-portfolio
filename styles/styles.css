@@ -1,0 +1,198 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.container {
+    max-width: 1200px;
+    margin: 0 auto;
+    /* border: 2px solid purple; */
+}
+
+.navbar-container {
+    display: flex;
+    justify-content: space-between;
+    font-family: "Arimo", sans-serif;
+    align-items: center;
+
+}
+
+.logo-img {
+
+    margin: 10px;
+    padding: 12px 10px;
+}
+
+.nav-links a,
+.logo-img {
+    text-decoration: none;
+    font-size: 16px;
+    font-weight: 400;
+    cursor: default;
+    color: black;
+
+}
+
+.nav-links {
+    gap: 40px;
+    padding: 24px 0;
+    display: flex;
+    align-items: center;
+
+
+}
+
+.register-btn {
+    font-family: "Inter", sans-serif;
+    font-size: 16px;
+    font-weight: 700;
+    margin: 20px;
+    border-radius: 12px;
+    padding: 16px 40px;
+    background-color: blue;
+    color: white;
+}
+
+/* Banner (Hero) Section */
+.banner-container {
+    background-image: linear-gradient(to bottom,
+            rgba(0, 0, 0, .75) 0%,
+            rgba(0, 0, 0, .55) 40%,
+            rgba(0, 0, 0, .35) 100%), url('../assets/banner.jpg');
+
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    min-height: 90vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    color: white;
+}
+
+.banner-container h2 {
+    font-size: 80px;
+    font-weight: 700;
+}
+
+.banner-container p {
+    font-size: 22px;
+    font-weight: 400;
+    max-width: 700px;
+    margin: 16px;
+    text-align: center;
+}
+
+.banner-content {
+    margin: 16px 20px 240px;
+}
+
+.banner-container button {
+    margin-top: 200px;
+}
+
+.common-btn {
+    padding: 25px 62px;
+    border-radius: 10px;
+    background-color: #1D4ED8;
+    color: white;
+    font-family: "Inter", sans-serif;
+    font-size: 16px;
+    font-weight: 700;
+    /* width: 100%; */
+
+}
+
+/* banner-section end */
+/* Secure Your Spot (Pricing) Section */
+.pricing-header {
+    text-align: center;
+    margin-bottom: 50px;
+    font-family: "Inter", sans-serif;
+}
+
+.pricing-header h2 {
+    font-size: 48px;
+    margin-bottom: 12px;
+
+}
+
+.pricing-header p {
+    font-size: 18px;
+
+}
+
+
+/* Cards */
+
+.pricing-cards {
+    display: flex;
+    gap: 24px;
+}
+
+.pricing-card-content {
+    flex: 1;
+    padding: 32px;
+    border: 2px solid #E5E7EB;
+    border-radius: 12px;
+}
+
+.card-header h5 {
+    font-size: 14px;
+    margin-bottom: 12px;
+}
+
+.card-header h3 {
+    font-size: 48px;
+    margin-bottom: 8px;
+}
+
+.card-header p {
+    color: gray;
+    margin-bottom: 24px;
+}
+
+.pricing-card-content hr {
+    margin-bottom: 24px;
+}
+
+.pricing-card-content ul {
+    padding-left: 20px;
+    margin-bottom: 30px;
+
+}
+
+.pricing-card-content li {
+    margin-bottom: 12px;
+
+}
+
+.pricing-card-content button {
+    width: 100%;
+    padding: 14px;
+    border-radius: 8px;
+    border: 1px solid #2563EB;
+    background: white;
+    color: #2563EB;
+    font-weight: 600;
+    
+}
+
+.pro-card {
+    background-color: #0D1B2A;
+    color: white;
+}
+
+.pro-card h5 {
+    color: #1D4ED8;
+    font-family: "Inter", sans-serif;
+    font-weight: 400;
+
+}
+
+.pro-card button {
+    background-color: #2563EB;
+    color: white;
+}
+/* Secure Your Spot (Pricing) Section end */

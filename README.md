@@ -30,17 +30,21 @@ A responsive conference website built for **DevConf 2026**, featuring a modern e
 
 ## 📸 Preview
 Devconf:
+</br>
+
 ![DevConf 2026 Preview](assets/devconf-preview.png)
 
+</br>
+
 Future Development: 
+
+</br>
+
 ![Future development Preview](assets/Future-development-preview.png)
-
-## 📂 Project Structure
-
 
 ## 📁 Project Structure
 
-
+```text
 B14-A01-DevConf-portfolio/
 │
 ├── assets/
@@ -62,7 +66,7 @@ B14-A01-DevConf-portfolio/
 ├── index.html
 ├── PROMPTS.md
 └── README.md
-
+```
 
 ## 🎯 Project Purpose
 

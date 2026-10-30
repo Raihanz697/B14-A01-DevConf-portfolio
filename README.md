@@ -29,11 +29,16 @@ A responsive conference website built for **DevConf 2026**, featuring a modern e
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
 ## 📸 Preview
-
+Devconf:
 ![DevConf 2026 Preview](assets/devconf-preview.png)
+
+Future Development: 
 ![Future development Preview](assets/Future-development-preview.png)
 
 ## 📂 Project Structure
+
+
+## 📁 Project Structure
 
 
 B14-A01-DevConf-portfolio/

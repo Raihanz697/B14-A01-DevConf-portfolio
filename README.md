@@ -2,13 +2,11 @@
 
 A responsive conference website built for **DevConf 2026**, featuring a modern event landing page with speakers, schedules, tracks, venue information, pricing plans, and registration sections.
 
-## 🌐 Live Website
+## 🌐 Live Demo
 
-[**View Live Website**](https://b14-a01-devconf-portfolio.vercel.app/)
+[**View Live Demo**](https://raihanz697.github.io/B14-A01-DevConf-portfolio/)
 
-## 💻 GitHub Repository
 
-[**View Source Code**](https://github.com/Raihanz697/B14-A01-DevConf-portfolio)
 
 ## ✨ Features
 
